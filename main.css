@@ -1,0 +1,22 @@
+
+    h1 {
+        color: #d5b8ff ;
+        font-size: 35px;
+     }
+
+     p {
+      color: #67809f;
+      font-size: 20px;
+     }
+
+
+     footer {
+        background: #2e3131;
+        color: #f3f1ef;
+     }
+
+
+     #logo {
+      width: 1000px;
+      height: 700px;
+     }
